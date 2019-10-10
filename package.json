@@ -20,7 +20,7 @@
   ],
   "author": "Khang Lu <info@khang.lu> (https://khang.lu/)",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "prop-types": "^15.5.10",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
