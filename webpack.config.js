@@ -28,6 +28,11 @@ module.exports = {
     publicPath: "/"
     // match the output `publicPath`
   },
+  
+  external: {
+    "react": "React",
+    "react-dom": "ReactDOM"
+  }
 
   module: {
     rules: [
